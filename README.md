@@ -1,14 +1,18 @@
 # Printto Magicbeat Thai VCVx
 Male Thai voicebank for UTAU program
 
+Version: ``VCVx 2.0``
+
+Basically, this voicebank supports all Thai USTs
+
 ### Current Features
 - Auto-updating program added (will be unavailable soon)
 - Thai VCV core reclist
 - Thai VCCV core reclist
-- Some Thai CVVC dip-thongs for easy use
+- Thai CVVC core reclist
 
 ### Sample
-[![Concept Video](https://img.youtube.com/vi/cUI3_9q2O8w/0.jpg)](https://www.youtube.com/watch?v=cUI3_9q2O8w)
+[![Thai VCVx](https://i.ytimg.com/an_webp/exusYJLaw_Y/mqdefault_6s.webp?du=3000&sqp=CIrE9ecF&rs=AOn4CLCcEmemp5oXtaUBus7L80TNX4WGzQ)](https://www.youtube.com/watch?v=exusYJLaw_Y)
 
 ## Wiki
 More information click [HERE](http://utau.fandom.com/Printto_Magicbeat)
