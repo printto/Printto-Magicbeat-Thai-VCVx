@@ -1,0 +1,4 @@
+name=Printto Magicbeat [Thai VCVx]
+image=printto.bmp
+sample=sample.wav
+http://www.printmov.com
